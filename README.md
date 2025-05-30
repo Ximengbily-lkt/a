@@ -1,9 +1,10 @@
 # a
 小鹅通项目
 实现功能：播放视频，聊天室
+未部署服务器
 采用：Vue3 + node.js
 分别用终端在frontend和backend npm run dev
-用3个网页访问https://localhost:5173。
+用3个网页访问https://localhost:5173
 视频播放：
 俩个视频第一个没声音第二个有，全屏播放后借助view实现了倍速画中画调声音功能
 
